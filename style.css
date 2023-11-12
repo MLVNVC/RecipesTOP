@@ -1,10 +1,17 @@
 h1 {
     text-align: center;
     background-color: lightgray;
-    color: orange;
+    color: rgb(95, 1, 95);
 }
 body {
     text-align: center;
     background-color: lightgray;
+    color: purple;
+}
+.b {
+    font-size: medium;
     color: orange;
+    background-color: black;
+    border: none;
+    padding: 10px 14px;
 }
