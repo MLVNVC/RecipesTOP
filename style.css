@@ -1,17 +1,29 @@
+.b {
+    border: 1px solid black;
+    padding: 0 10px 10px 10px;
+    box-shadow: inset 0 0 0 10px orangered;
+}
+
 h1 {
+    color: orangered;
     text-align: center;
-    background-color: lightgray;
-    color: rgb(95, 1, 95);
+    font-size: 40px;
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: 2px 2px 1px black;
+
 }
 body {
     text-align: center;
-    background-color: lightgray;
-    color: purple;
+    width: auto;
+    
 }
-.b {
-    font-size: medium;
-    color: orange;
-    background-color: black;
-    border: none;
-    padding: 10px 14px;
+html {
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: bisque;
+}
+img {
+    display: block;
+    margin: 0 auto;
 }
